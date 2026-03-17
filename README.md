@@ -13,7 +13,8 @@ On this very day in **1992**, a referendum led by the white population in South 
 
 ## 📂 Dataset
  
-- Link: https://www.kaggle.com/datasets/viroshensewpaul/general-household-survey-data-from-2012-to-2022?select=ghs-2022-person-v1.csv  
+- Link: https://www.kaggle.com/datasets/viroshensewpaul/general-household-survey-data-from-2012-to-2022?select=ghs-2022-person-v1.csv
+- The raw file is at ghs-2022-person-v1.csv.zip. Unzip it to get the file.
 
 📌 Note: Only the **2022 dataset** was used for this analysis.
 
