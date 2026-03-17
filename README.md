@@ -141,6 +141,4 @@ This dataset primarily includes **employed individuals**, so:
 # 📌 Author
 
 Sibankar Saha
-Aspiring Data Analyst | Socio-Economic Analytics  
-
 ---
